@@ -102,9 +102,9 @@ print(x.imag)
 ## Output
 <img width="1257" height="308" alt="image" src="https://github.com/user-attachments/assets/de3be0ac-a16f-4764-9f1a-2a43ee18b6a2" />
 
-
 ## Result
 Thus the prgram has been successfully executed.
+
 
 
 # Datatypes-Read and Print a String in Python
@@ -121,12 +121,9 @@ To write a Python program to read a string from the user and then print it.
 men_stepped_on_the_moon=input()
 print(men_stepped_on_the_moon)
 
-
 ## Output
 
 <img width="1257" height="372" alt="Screenshot 2026-06-03 132959" src="https://github.com/user-attachments/assets/9a3f9216-56d8-44ca-954b-53dfe915edc6" />
-
-
 
 ## Result
 Thus, the program has been successfully executed.
