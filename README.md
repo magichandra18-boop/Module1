@@ -106,6 +106,7 @@ print(x.imag)
 ## Result
 Thus the prgram has been successfully executed.
 
+
 # Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
@@ -122,11 +123,14 @@ print(men_stepped_on_the_moon)
 
 
 ## Output
-<img width="1257" height="372" alt="image" src="https://github.com/user-attachments/assets/dd11cfa5-ee54-44a5-a13a-dd33beb1d3fb" />
+
+<img width="1257" height="372" alt="Screenshot 2026-06-03 132959" src="https://github.com/user-attachments/assets/9a3f9216-56d8-44ca-954b-53dfe915edc6" />
+
 
 
 ## Result
 Thus, the program has been successfully executed.
+
 
 
 
