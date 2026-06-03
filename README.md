@@ -19,11 +19,12 @@ else:
     print("ODD")
 
 ## Output
-<img width="1267" height="302" alt="image" src="https://github.com/user-attachments/assets/0e03a933-7076-4245-8926-a77697f0b8a9" />
+<img width="711" height="542" alt="image" src="https://github.com/user-attachments/assets/665f7beb-afaf-4ebf-95ce-a00a8be990a7" />
 
 
 ## Result
-Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully. 
+Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
+
 
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
